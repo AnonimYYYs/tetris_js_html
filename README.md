@@ -1,11 +1,11 @@
-# about
+# About
 tetris game with html, js and css
 
 ![tetris preview](./Tetris_preview.png)
 
 Made as university project, 2020
 
-# how to play
+# How to play
 
 Launch game:
 - Download folder 'Tetris'
